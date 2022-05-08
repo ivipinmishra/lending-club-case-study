@@ -18,12 +18,11 @@ The Company wants to understand the driving factors (or driver variables) behind
 
 
 ## Table of Contents
-* [General Information]
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Need analysis to understand the driving factors behind loan default
