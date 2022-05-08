@@ -18,7 +18,7 @@ The Company wants to understand the driving factors (or driver variables) behind
 
 
 ## Table of Contents
-* [General Info]
+* [General Information]
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
