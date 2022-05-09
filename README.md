@@ -59,7 +59,7 @@ Below are the variables which are strong indicators of default.  The company can
 - if loan term is of 36 months
 
 ## Acknowledgements
-- This project was inspired Upgrad AI ML journey
+- This project was inspired by Upgrad AI ML journey
 
 
 ## Contact
